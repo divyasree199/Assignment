@@ -1,0 +1,51 @@
+C and C++ are both programming languages, and while they share similarities, they also have key differences. Here are some of the main distinctions between C and C++:
+
+1.Paradigm:
+
+C: Procedural programming language.
+C++: Multi-paradigm language supporting procedural, object-oriented, and generic programming.
+
+2.Object-Oriented Programming:
+
+C: Does not support object-oriented programming (OOP) features.
+C++: Supports OOP concepts such as classes, objects, inheritance, polymorphism, and encapsulation.
+
+3.Classes and Objects:
+
+C: Lacks the concept of classes and objects.
+C++: Introduces classes and objects as fundamental building blocks.
+
+4.Function Overloading:
+
+C: Does not support function overloading.
+C++: Supports function overloading, allowing multiple functions with the same name but different parameters.
+
+5.Operator Overloading:
+
+C: Does not support operator overloading.
+C++: Allows overloading of operators for user-defined types.
+
+6.Memory Management:
+
+C: Primarily relies on functions like malloc() and free() for dynamic memory management.
+C++: Introduces new and delete operators for dynamic memory management, and also supports the concept of constructors and destructors for automatic memory management using objects.
+
+7.Standard Template Library (STL):
+
+C: Lacks a standard template library.
+C++: Includes the STL, which provides generic classes and functions with templates, algorithms, and containers.
+
+8.Namespace:
+
+C: Does not support namespaces.
+C++: Introduces namespaces to avoid naming conflicts.
+
+9.Header Files:
+
+C: Uses header files like .h for function prototypes and declarations.
+C++: Continues to use header files but often omits the .h extension, and introduces iostream for input/output operations.
+
+10.Compatibility:
+
+C: Code written in C is often compatible with C++.
+C++: While C code is generally compatible, some C++ features may not be understood by a C compiler.
